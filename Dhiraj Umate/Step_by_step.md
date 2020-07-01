@@ -1,11 +1,10 @@
-**How GitHub Worked**?    
-_The first two things you&#39;ll want to do are install git and create a free GitHub account_.
-_In your account you can add email and manage preference of email_. _You can also
-customize your GitHub profile_
-_Next_, _when creating a new project on your local machine using git_, _you&#39;ll first create a
-new repository_ (repo). _Then adding Files to that Repo and commit the changes_. _When
-you commit changes you must select master branch or create new branch_.          
-**Cloning**
+**How GitHub Worked**?   \ 
+The first two things you&#39;ll want to do are install git and create a free GitHub account.
+In your account you can add email and manage preference of email. You can also customize your GitHub profile
+Next,when creating a new project on your local machine using git, you&#39;ll first create a
+new repository (repo). Then adding Files to that Repo and commit the changes. When
+you commit changes you must select master branch or create new branch.         
+**Cloning** 
 
 when you create a repository on _GitHub_, it exists as a remote repository. You can
 **clone** your repository to create a local copy on your computer and sync between the two
@@ -14,7 +13,7 @@ your local machine to make it easier to work with and it allows us to use your f
 editor, to add and remove files, or to fix Bug on it. You cannot fork a private repository to an
 organization using GitHub Free. Deleting a fork will not delete the original repository.     
 
-**Forking**
+**Forking**  
 
 A **fork** is a copy of a repository that you manage. Forks let you make changes to a
 project without affecting the original repository. You can fetch updates from or submit
@@ -35,7 +34,7 @@ before the code is finished.
 You can even open pull requests in your own repository and merge them yourself. It’s a great
 way to learn the GitHub flow before working on larger projects.    
 
-**Opening issues**
+**Opening issues**  
 
 Use **issues** to track ideas, enhancements, tasks, or bugs for work on GitHub. You can
 collect user feedback, report software bugs, and organize tasks you would like to accomplish
